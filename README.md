@@ -27,4 +27,5 @@ Como ejecutar de manera local:
 Ejemplo de ejecución:
 - curl http://localhost:5001/usuarios
 - curl http://localhost:5002/canciones
+- curl http://localhost:5002/canciones?artist=Coldplay
 # examenParcial
